@@ -1,0 +1,8 @@
+# Android build artifacts
+zin-ai-android-v3/.gradle/
+zin-ai-android-v3/build/
+zin-ai-android-v3/app/build/
+zin-ai-android-v3/local.properties
+zin-ai-android-v3/app-debug.apk
+# Command-line SDK tools and temp files
+zin-ai-android-v3/gradle.properties
